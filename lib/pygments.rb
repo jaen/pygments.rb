@@ -12,7 +12,7 @@ module Pygments
   end
   
   def rubypython_options= (opts)
-    @rv_opts = opts
+    @rb_opts = opts
   end
 
   extend self
